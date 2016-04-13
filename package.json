@@ -1,0 +1,21 @@
+{
+  "name": "openxml",
+  "main": "./lib/openxml.js",	
+  "description": "Generating Excel 2010 Workbooks by Using the Open XML Specification",
+  "version": "0.0.1",
+  "author": {
+    "name": "PinkPong",
+    "email": "pong@properex.com"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "files": [
+    "LICENSE",
+    "History.md",
+    "Readme.md",
+    "index.js",
+    "lib/"
+  ]
+}
